@@ -1,0 +1,19 @@
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.exe.config
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.exe
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.pdb
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.Form1.resources
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.Properties.Resources.resources
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.exe
+C:\Users\Cassio Barbosa\source\repos\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.pdb
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.exe.config
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.exe
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\bin\Debug\ListaCalendario.pdb
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.csprojAssemblyReference.cache
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.Form1.resources
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.Properties.Resources.resources
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.csproj.GenerateResource.cache
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.csproj.CoreCompileInputs.cache
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.exe
+C:\Users\Cassio\Desktop\Projetos\C#\ListaCalendario\ListaCalendario\obj\Debug\ListaCalendario.pdb
