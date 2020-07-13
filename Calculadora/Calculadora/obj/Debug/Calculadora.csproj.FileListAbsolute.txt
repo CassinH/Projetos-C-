@@ -1,0 +1,9 @@
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Cassio Barbosa\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
