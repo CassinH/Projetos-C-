@@ -1,0 +1,9 @@
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Form1.resources
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Cassio Barbosa\source\repos\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
