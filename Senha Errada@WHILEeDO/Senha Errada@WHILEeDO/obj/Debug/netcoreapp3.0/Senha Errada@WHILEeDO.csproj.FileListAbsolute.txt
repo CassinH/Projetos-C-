@@ -1,0 +1,10 @@
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.deps.json
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.runtimeconfig.json
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.runtimeconfig.dev.json
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.dll
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\bin\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\obj\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.AssemblyInfoInputs.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\obj\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.AssemblyInfo.cs
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\obj\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.dll
+C:\Users\Cassio Barbosa\Desktop\C#\Senha Errada@WHILEeDO\Senha Errada@WHILEeDO\obj\Debug\netcoreapp3.0\Senha Errada@WHILEeDO.pdb

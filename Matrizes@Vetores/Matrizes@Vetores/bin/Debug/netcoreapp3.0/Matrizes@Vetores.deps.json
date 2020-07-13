@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Matrizes@Vetores/1.0.0": {
+        "runtime": {
+          "Matrizes@Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrizes@Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

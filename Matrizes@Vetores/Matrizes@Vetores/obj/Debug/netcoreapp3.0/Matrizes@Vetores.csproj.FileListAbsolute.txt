@@ -1,0 +1,11 @@
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\obj\Debug\netcoreapp3.0\Matrizes@Vetores.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\obj\Debug\netcoreapp3.0\Matrizes@Vetores.AssemblyInfoInputs.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\obj\Debug\netcoreapp3.0\Matrizes@Vetores.AssemblyInfo.cs
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.deps.json
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.runtimeconfig.json
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.runtimeconfig.dev.json
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.dll
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\bin\Debug\netcoreapp3.0\Matrizes@Vetores.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\obj\Debug\netcoreapp3.0\Matrizes@Vetores.dll
+C:\Users\Cassio Barbosa\Desktop\C#\Matrizes@Vetores\Matrizes@Vetores\obj\Debug\netcoreapp3.0\Matrizes@Vetores.pdb

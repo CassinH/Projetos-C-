@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Senha Errada@WHILEeDO/1.0.0": {
+        "runtime": {
+          "Senha Errada@WHILEeDO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senha Errada@WHILEeDO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
