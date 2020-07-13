@@ -1,0 +1,9 @@
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\bin\Debug\Evento Clique.exe.config
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\bin\Debug\Evento Clique.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\bin\Debug\Evento Clique.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento Clique.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento_Clique.Form1.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento_Clique.Properties.Resources.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento Clique.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento Clique.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Evento Clique\Evento Clique\obj\Debug\Evento Clique.pdb
