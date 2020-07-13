@@ -1,0 +1,19 @@
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\bin\Debug\Tabela.exe.config
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\bin\Debug\Tabela.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\bin\Debug\Tabela.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.Form1.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Tabela\Tabela\obj\Debug\Tabela.pdb
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\bin\Debug\Tabela.exe.config
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\bin\Debug\Tabela.exe
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\bin\Debug\Tabela.pdb
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.csprojAssemblyReference.cache
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.Form1.resources
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.csproj.GenerateResource.cache
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.csproj.CoreCompileInputs.cache
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.exe
+C:\Users\Cassio\Desktop\Projetos\C#\Tabela\Tabela\obj\Debug\Tabela.pdb
