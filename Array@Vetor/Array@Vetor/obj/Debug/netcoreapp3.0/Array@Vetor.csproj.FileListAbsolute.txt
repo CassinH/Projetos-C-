@@ -1,0 +1,11 @@
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.exe
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.deps.json
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.runtimeconfig.json
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.runtimeconfig.dev.json
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.dll
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\bin\Debug\netcoreapp3.0\Array@Vetor.pdb
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\obj\Debug\netcoreapp3.0\Array@Vetor.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\obj\Debug\netcoreapp3.0\Array@Vetor.AssemblyInfoInputs.cache
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\obj\Debug\netcoreapp3.0\Array@Vetor.AssemblyInfo.cs
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\obj\Debug\netcoreapp3.0\Array@Vetor.dll
+C:\Users\Cassio Barbosa\source\repos\Array@Vetor\Array@Vetor\obj\Debug\netcoreapp3.0\Array@Vetor.pdb
