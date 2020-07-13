@@ -1,0 +1,10 @@
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\bin\Debug\Adicionar Tabela.exe.config
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\bin\Debug\Adicionar Tabela.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\bin\Debug\Adicionar Tabela.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar_Tabela.Form1.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar_Tabela.Properties.Resources.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar Tabela.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar Tabela.exe
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar Tabela.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar_Tabela.Resultado.resources
+C:\Users\Cassio Barbosa\Desktop\C#\Adicionar Tabela\Adicionar Tabela\obj\Debug\Adicionar_Tabela.CheckBox.resources
