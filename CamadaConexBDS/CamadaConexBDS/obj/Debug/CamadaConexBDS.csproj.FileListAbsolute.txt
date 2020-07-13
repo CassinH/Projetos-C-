@@ -1,0 +1,9 @@
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.csprojAssemblyReference.cache
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.Form1.resources
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.Properties.Resources.resources
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.csproj.GenerateResource.cache
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\bin\Debug\CamadaConexBDS.exe.config
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\bin\Debug\CamadaConexBDS.exe
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\bin\Debug\CamadaConexBDS.pdb
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.exe
+C:\Users\Cassio Barbosa\Desktop\C#\CamadaConexBDS\CamadaConexBDS\obj\Debug\CamadaConexBDS.pdb
